@@ -32,6 +32,7 @@ img {
 
 html {
 	font-family: "Inter", sans-serif;
+	scroll-behavior: smooth;
 }
 
 :root {
@@ -194,7 +195,7 @@ html {
 	} 
 	@media screen and (max-width: 576px) {
 		& {
-			margin-top: 320px;
+			margin-top: 220px;
 		}
 	}
 }
