@@ -32,7 +32,7 @@ img {
 
 html {
 	font-family: "Inter", sans-serif;
-	scroll-behavior: smooth;
+	/* scroll-behavior: smooth; */
 }
 
 :root {
